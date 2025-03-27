@@ -66,6 +66,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
+/* Modo escuro */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode a {
+    color: #ffcc00;
+}
+
 
 /* Rodapé */
 footer {
